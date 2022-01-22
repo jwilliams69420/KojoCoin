@@ -1,0 +1,2 @@
+# KojoCoin
+JavaScript blockchain PoC
