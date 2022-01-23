@@ -5,6 +5,10 @@ class Block {
         this.hash = hash;
         this.data = data;
     }
+
+    static genesis() {
+        
+    }
 }
 
 module.exports = Block;
