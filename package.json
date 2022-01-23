@@ -1,0 +1,23 @@
+{
+  "name": "kojocoin",
+  "version": "1.0.0",
+  "description": "JavaScript blockchain PoC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwilliams69420/KojoCoin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwilliams69420/KojoCoin/issues"
+  },
+  "homepage": "https://github.com/jwilliams69420/KojoCoin#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
