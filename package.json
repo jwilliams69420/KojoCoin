@@ -4,8 +4,8 @@
   "description": "JavaScript blockchain PoC",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "jest --watchAll"
+  }, 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jwilliams69420/KojoCoin.git"
